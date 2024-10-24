@@ -1,6 +1,6 @@
 # Langchain Intro
 
-This project demonstrates how to use the Langchain library with OpenAI's language models to create a simple chat application using Streamlit.
+This project demonstrates how to use the Langchain library with ollama's language models to create a simple chat application using Streamlit.
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ This project demonstrates how to use the Langchain library with OpenAI's languag
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/langchain-intro.git
+    git clone https://github.com/langiq-ai/langchain-intro.git
     cd langchain-intro
     ```
 
