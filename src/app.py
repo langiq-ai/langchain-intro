@@ -22,7 +22,7 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 # streamlit framework
-st.title("Langchain OpenAI Chat")
+st.title("Langchain Ollama Chat")
 input_text = st.text_input("Enter your question here:")
 
 model = OllamaLLM(model="llama3.2")
